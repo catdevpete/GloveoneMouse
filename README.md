@@ -10,5 +10,5 @@ What I followed in order to get it working (with some things figured out after a
 https://player.vimeo.com/video/218616304
 
 Pre-requisite:
-- Unity 2018 (specifically 2018.1.9f1) or above
 - ND Suite (Link as of 30/08/2018: https://www.neurodigital.es/developer/)
+- Visual Studio with C#
